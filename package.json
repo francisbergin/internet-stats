@@ -9,7 +9,7 @@
   },
   "main": "main.js",
   "scripts": {
-    "start": "nohup ./node_modules/.bin/electron . &"
+    "start": "nohup electron . &"
   },
   "dependencies": {
     "chart.js": "^2.6.0",
